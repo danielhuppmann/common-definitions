@@ -19,13 +19,13 @@
       capital costs for the technology that is used most.
     unit: USD_2010/kW
 
-- Capital Cost|Gases|Biomass|{CCS}:
-    description: Capital cost of a new biomass-to-gas plant {CCS}
+- Capital Cost|Gases|Biomass:
+    description: Capital cost of a new biomass-to-gas plant
     note: If more than technology in this category is modelled, modellers should report
       capital costs for the technology that is used most.
     unit: USD_2010/kW
-- Capital Cost|Gases|Coal|{CCS}:
-    description: Capital cost of a new coal-to-gas plant {CCS}
+- Capital Cost|Gases|Coal:
+    description: Capital cost of a new coal-to-gas plant
     note: If more than technology in this category is modelled, modellers should report
       capital costs for the technology that is used most.
     unit: USD_2010/kW
