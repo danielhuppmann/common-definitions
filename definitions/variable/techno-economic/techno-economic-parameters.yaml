@@ -19,6 +19,27 @@
       capital costs for the technology that is used most.
     unit: USD_2010/kW
 
+- Capital Cost|Liquids|Biomass:
+    description: Capital cost of a new biomass-to-liquids plant
+    note: If more than technology in this category is modelled, modellers should report
+      capital costs for the technology that is used most.
+    unit: USD_2010/kW
+- Capital Cost|Liquids|Coal:
+    description: Capital cost of a new coal-to-liquids plant
+    note: If more than technology in this category is modelled, modellers should report
+      capital costs for the technology that is used most.
+    unit: USD_2010/kW
+- Capital Cost|Liquids|Gas:
+    description: Capital cost of a new gas-to-liquids plant
+    note: If more than technology in this category is modelled, modellers should report
+      capital costs for the technology that is used most.
+    unit: USD_2010/kW
+- Capital Cost|Liquids|Oil:
+    description: Capital cost of a new oil refining plant
+    note: If more than technology in this category is modelled, modellers should report
+      capital costs for the technology that is used most.
+    unit: USD_2010/kW
+
 - Capital Cost|Gases|Biomass:
     description: Capital cost of a new biomass-to-gas plant
     note: If more than technology in this category is modelled, modellers should report
@@ -47,27 +68,6 @@
     unit: USD_2010/kW
 - Capital Cost|Hydrogen|Electricity:
     description: Capital cost of a new electrolysis plant
-    note: If more than technology in this category is modelled, modellers should report
-      capital costs for the technology that is used most.
-    unit: USD_2010/kW
-
-- Capital Cost|Liquids|Biomass:
-    description: Capital cost of a new biomass-to-liquids plant
-    note: If more than technology in this category is modelled, modellers should report
-      capital costs for the technology that is used most.
-    unit: USD_2010/kW
-- Capital Cost|Liquids|Coal:
-    description: Capital cost of a new coal-to-liquids plant
-    note: If more than technology in this category is modelled, modellers should report
-      capital costs for the technology that is used most.
-    unit: USD_2010/kW
-- Capital Cost|Liquids|Gas:
-    description: Capital cost of a new gas-to-liquids plant
-    note: If more than technology in this category is modelled, modellers should report
-      capital costs for the technology that is used most.
-    unit: USD_2010/kW
-- Capital Cost|Liquids|Oil:
-    description: Capital cost of a new oil refining plant
     note: If more than technology in this category is modelled, modellers should report
       capital costs for the technology that is used most.
     unit: USD_2010/kW
