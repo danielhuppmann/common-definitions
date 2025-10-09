@@ -6,6 +6,7 @@
         description: iron and steel sector
     - Non-Ferrous Metals:
         description: non-ferrous metals sector
+        ngfs5: Non-ferrous metals
     - Non-Metallic Minerals:
         description: non-metallic minerals sector excluding cement
     - Chemicals:
@@ -20,6 +21,7 @@
     - Chemicals|High-Value Chemicals:
         description: high-value-chemicals sector
         tier: ^1
+        ngfs5: Chemicals|High value chemicals
     - Chemicals|Other Sector:
         description: other use in the chemical sector
         tier: ^1
